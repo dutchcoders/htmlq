@@ -1,0 +1,23 @@
+{
+	"ImportPath": "_/Users/remco/Projects/htmlq",
+	"GoVersion": "go1.4",
+	"Packages": [
+		"github.com/dutchcoders/htmlq"
+	],
+	"Deps": [
+		{
+			"ImportPath": "code.google.com/p/cascadia",
+			"Comment": "null-31",
+			"Rev": "5d796540e3cb93ea0556c897e6a3c7690f614d35"
+		},
+		{
+			"ImportPath": "github.com/PuerkitoBio/goquery",
+			"Comment": "v0.3.2-69-g4cf64c5",
+			"Rev": "4cf64c51f7e80d56d9ae2ffe7d684d3dd5dbd5d0"
+		},
+		{
+			"ImportPath": "golang.org/x/net/html",
+			"Rev": "3d87fd621ca9a824c5cff17216ce44769456cb3f"
+		}
+	]
+}
