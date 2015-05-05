@@ -14,6 +14,13 @@ curl https://api.slack.com/rtm | htmlq --filter a
 go build -o /usr/local/bin/htmlq main.go
 ```
 
+## Install using Homebrew
+
+```
+$ brew tap dutchcoders/homebrew-htmlq
+$ brew install htmlq
+```
+
 ## Thanks 
 Many thanks to PuerkitoBio (https://github.com/PuerkitoBio/goquery). Without his library this tool would have been many more than the current few lines.
 
